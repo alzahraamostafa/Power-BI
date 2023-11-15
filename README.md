@@ -1,2 +1,2 @@
 # Power-BI
-Dashboards and visualizing data
+Screenshots of Dashboards and visualizing data
